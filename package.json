@@ -8,17 +8,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-mocha": "^6.0.0",
-    "gulp-plumber": "^1.2.0",
-    "jest": "^23.5.0",
-    "jest-puppeteer": "^3.3.0",
     "make-dir": "^1.3.0",
-    "moment": "^2.22.2",
     "puppeteer": "^1.7.0",
-    "selenium-standalone": "^6.15.0",
-    "should": "^13.2.1",
-    "webdriverio": "^4.12.0",
     "xlsx": "^0.13.0"
   },
   "scripts": {
@@ -26,5 +17,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
